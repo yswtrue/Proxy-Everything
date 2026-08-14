@@ -1,3 +1,5 @@
+
+
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=xixu-me/Proxy-Everything&type=Date&theme=dark" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=xixu-me/Proxy-Everything&type=Date" />
@@ -31,7 +33,7 @@ After logging into your account, click [![Deploy to Cloudflare Workers](https://
 Click "Authorize Workers" and log in to your Github account to authorize GitHub to Workers.
 ![image-20240308100821060](https://github.com/Harry-zklcdc/go-proxy-bingai/assets/21104213/241edb52-b1ef-4a2c-8525-bfa3d148391b)
 
-Click "I have a account".
+Click "I have an account".
 ![image-20240308100942925](https://github.com/Harry-zklcdc/go-proxy-bingai/assets/21104213/219fc538-e412-4a52-913c-6c4878d50325) Click "Workers Dashboard".
 ![image-20240308101056834](https://github.com/Harry-zklcdc/go-proxy-bingai/assets/21104213/4b4a96be-90b3-40cc-9b50-b214980f2ab2) Copy "Account ID".
 ![image-20240308101224693](https://github.com/Harry-zklcdc/go-proxy-bingai/assets/21104213/da6f8b64-f6e1-40c0-b812-54f86d8b97c0)
@@ -61,7 +63,7 @@ Click "Copy".
 ![image-20240308103153901](https://github.com/Harry-zklcdc/go-proxy-bingai/assets/21104213/0309e295-d77a-4d27-918e-706e2169347f)
 
 Paste it into the "API Token" input box and click "Connect account".
-![aac580cdb2ba5305991c02e46baea0de](https://github.com/Harry-zklcdc/go-proxy-bingai/assets/21104213/eb3bb593-13df-4a67-976d-4fbb5f369e51) Click "Fork the repository" -> "Repository Actions" - > "I understand my workflows, go ahead and enable them" to enable Github Action.
+![aac580cdb2ba5305991c02e46baea0de](https://github.com/Harry-zklcdc/go-proxy-bingai/assets/21104213/eb3bb593-13df-4a67-976d-4fbb5f369e51) Click "Fork the repository" -> "Repository Actions" -> "I understand my workflows, go ahead and enable them" to enable Github Action.
 ![image-20240308103835724](https://github.com/Harry-zklcdc/go-proxy-bingai/assets/21104213/a0d89011-edb5-4622-9bb0-c40f6420e936)
 
 Return to the previous page and click "Workflows enabled" -> "Deploy" in sequence.
